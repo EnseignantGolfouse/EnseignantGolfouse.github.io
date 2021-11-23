@@ -51,7 +51,7 @@ a:active, a:focus {
 .navbar-bottom {
 	background-color: #333;
 	overflow: hidden;
-	position: fixed;
+	position: static;
 	bottom: 0;
 	width: 100%;
 }
